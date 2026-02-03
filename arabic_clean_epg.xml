@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Arabic Clean EPG"
+    source-info-name="elcinema + epg.pw"
+    source-info-url="https://elcinema.com/tvguide/"
+    xmltv-version="1.0">
+
+  <!-- ================== beIN SPORTS ================== -->
+  <channel id="ari.bein.sports">
+    <display-name lang="ar">beIN Sports</display-name>
+  </channel>
+
+  <channel id="ari.bein.afc">
+    <display-name lang="ar">beIN Sports AFC</display-name>
+  </channel>
+
+  <channel id="ari.bein.xtra">
+    <display-name lang="ar">beIN Sports Xtra</display-name>
+  </channel>
+
+  <!-- ================== THMANYAH ================== -->
+  <channel id="ari.thmanyah">
+    <display-name lang="ar">ثمانية</display-name>
+  </channel>
+
+  <!-- ================== ALKASS ================== -->
+  <channel id="ari.alkass">
+    <display-name lang="ar">قنوات الكأس</display-name>
+  </channel>
+
+  <!-- ================== ABU DHABI SPORTS ================== -->
+  <channel id="ari.adsports">
+    <display-name lang="ar">أبوظبي الرياضية</display-name>
+  </channel>
+
+  <!-- ================== MBC ================== -->
+  <channel id="mbc1"><display-name lang="ar">MBC 1</display-name></channel>
+  <channel id="mbc2"><display-name lang="ar">MBC 2</display-name></channel>
+  <channel id="mbc3"><display-name lang="ar">MBC 3</display-name></channel>
+  <channel id="mbc4"><display-name lang="ar">MBC 4</display-name></channel>
+  <channel id="mbc-action"><display-name lang="ar">MBC Action</display-name></channel>
+  <channel id="mbc-drama"><display-name lang="ar">MBC Drama</display-name></channel>
+
+  <!-- ================== ROTANA ================== -->
+  <channel id="rotana-cinema"><display-name lang="ar">روتانا سينما</display-name></channel>
+  <channel id="rotana-khalijia"><display-name lang="ar">روتانا خليجية</display-name></channel>
+  <channel id="rotana-classic"><display-name lang="ar">روتانا كلاسيك</display-name></channel>
+  <channel id="rotana-drama"><display-name lang="ar">روتانا دراما</display-name></channel>
+  <channel id="rotana-comedy"><display-name lang="ar">روتانا كوميدي</display-name></channel>
+  <channel id="rotana-aflam"><display-name lang="ar">روتانا أفلام</display-name></channel>
+
+  <!-- ================== OSN / ART ================== -->
+  <channel id="osn-movies"><display-name lang="ar">OSN Movies</display-name></channel>
+  <channel id="osn-yahala"><display-name lang="ar">OSN يا هلا</display-name></channel>
+  <channel id="art-aflam"><display-name lang="ar">ART أفلام</display-name></channel>
+  <channel id="art-cinema"><display-name lang="ar">ART سينما</display-name></channel>
+
+  <!-- ================== DRAMA ================== -->
+  <channel id="cbc"><display-name lang="ar">CBC</display-name></channel>
+  <channel id="cbc-drama"><display-name lang="ar">CBC دراما</display-name></channel>
+  <channel id="dmc"><display-name lang="ar">DMC</display-name></channel>
+  <channel id="dmc-drama"><display-name lang="ar">DMC دراما</display-name></channel>
+  <channel id="on"><display-name lang="ar">ON</display-name></channel>
+  <channel id="on-drama"><display-name lang="ar">ON دراما</display-name></channel>
+  <channel id="al-hayah"><display-name lang="ar">الحياة</display-name></channel>
+  <channel id="al-hayah-drama"><display-name lang="ar">الحياة دراما</display-name></channel>
+
+  <!-- ================== SAMPLE PROGRAMMES (GMT+3) ================== -->
+  <programme start="20260203003000 +0300" stop="20260203023000 +0300" channel="ari.bein.sports">
+    <title lang="ar">مباراة كرة قدم</title>
+    <desc lang="ar">نقل مباشر</desc>
+  </programme>
+
+  <programme start="20260203030000 +0300" stop="20260203050000 +0300" channel="rotana-cinema">
+    <title lang="ar">فيلم عربي</title>
+    <desc lang="ar">عرض سينمائي</desc>
+  </programme>
+
+  <programme start="20260203040000 +0300" stop="20260203050000 +0300" channel="ari.thmanyah">
+    <title lang="ar">برنامج رياضي</title>
+    <desc lang="ar">تحليل ومتابعة</desc>
+  </programme>
+
+</tv>
