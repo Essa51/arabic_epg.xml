@@ -1,0 +1,8 @@
+{
+  "tag_name": "v1.0",
+  "target_commitish": "653128323cd3fe704b631f15bde359b908a74d0d",
+  "name": "v1.0",
+  "body": "Release v1.0 — snapshot of arabic_clean_epg.xml for stable CDN delivery via jsDelivr.",
+  "draft": false,
+  "prerelease": false
+}
